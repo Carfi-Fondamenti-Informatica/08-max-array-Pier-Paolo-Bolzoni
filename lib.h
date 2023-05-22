@@ -1,1 +1,1 @@
-double valoremax(double lista[], int dim)
+double valoremax(double lista[], int dim);
