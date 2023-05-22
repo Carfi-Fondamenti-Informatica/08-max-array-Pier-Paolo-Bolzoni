@@ -11,6 +11,7 @@ int main() {
     for(int i=0;i<dim;i++){
         cin >> lista[i];
     }
-    cout << valoremax(lista, dim) << endl;
+    num = valoremax(lista, dim);
+    cout << num << endl;
     return 0;
 }
