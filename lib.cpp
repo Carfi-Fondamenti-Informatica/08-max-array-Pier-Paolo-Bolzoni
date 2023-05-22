@@ -1,3 +1,5 @@
+#include "lib.h"
+
 double valoremax(double lista[], int dim){
     double max = lista[0];
     for(int i=1;i<dim;i++){
